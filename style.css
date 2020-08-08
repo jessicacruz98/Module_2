@@ -31,7 +31,9 @@ h1 {
   font-size:100%; 
 }
 .paragraph{
- float bottom
+  margi-top:30px;
+    font-family:Impact, Charcoal, sans-serif;
+  font-size:100%; 
   text-align: justify;
 }
 
