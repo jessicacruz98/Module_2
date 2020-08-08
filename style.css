@@ -31,7 +31,7 @@ h1 {
   font-size:100%; 
 }
 .paragraph{
-  float: left;
+  float: bottom;
   text-align: justify;
 }
 
