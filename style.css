@@ -18,7 +18,6 @@ h1 {
   margin-left: auto;
   margin-top: 0px;
   margin-bottom: 0px;
-  position: relative;
 }
 .p1 {
   margin: 0;
@@ -32,9 +31,7 @@ h1 {
   font-size:100%; 
 }
 .paragraph{
-  postion: absolute;
-  left:0px;
-  top:10%;
+ float bottom
   text-align: justify;
 }
 
